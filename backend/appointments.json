@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "doctor_id": 1,
+        "doctor_name": "Dr. Aditi Sharma",
+        "speciality": "Cardiology",
+        "date": "2026-11-25",
+        "time": "10:00 AM",
+        "phone": "9876543210",
+        "status": "Cancelled"
+    },
+    {
+        "id": 2,
+        "doctor_id": 3,
+        "doctor_name": "Dr. Neha Patel",
+        "speciality": "Neurology",
+        "date": "2026-11-26",
+        "time": "01:00 PM",
+        "phone": "8855081276",
+        "status": "Cancelled"
+    },
+    {
+        "id": 3,
+        "doctor_id": 1,
+        "doctor_name": "Dr. Aditi Sharma",
+        "speciality": "Cardiology",
+        "date": "2026-11-25",
+        "time": "11:30 AM",
+        "phone": "8855081276",
+        "status": "Booked"
+    }
+]
